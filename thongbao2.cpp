@@ -3,7 +3,8 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello";
-	cout << "tuan depzaii";
+	cout << "Hello\n";
+	cout << "tuan depzaii\n";
+	cout<<"Haru 2003\n"
 	cout << endl;
 }
