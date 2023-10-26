@@ -4,5 +4,6 @@
         <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.2" />
 		cout<<"thongbao";
 		cout <<"hello";
+		cout <<" main thay doi";
     </startup>
 </configuration>
