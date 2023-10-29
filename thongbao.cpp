@@ -9,5 +9,8 @@
 =======
 		cout << " them 1 dong ";
 >>>>>>> tai-new
+<<<<<< < HEAD
+	cout << " thay doi main";
+>>>>>> > tuan_new
     </startup>
 </configuration>
