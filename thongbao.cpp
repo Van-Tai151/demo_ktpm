@@ -8,6 +8,10 @@
 		cout <<" main thay doi";
 =======
 		cout << " them 1 dong ";
->>>>>>> tai-new
+======
+>>>>>>> tai - new
+<<<<<<< HEAD
+	cout << < "thay doi main";
+>>>>>>> tuan_new
     </startup>
 </configuration>
