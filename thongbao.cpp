@@ -8,9 +8,17 @@
 		cout <<" main thay doi";
 =======
 		cout << " them 1 dong ";
+<<<<<<< HEAD
 >>>>>>> tai-new
 <<<<<< < HEAD
 	cout << " thay doi main";
 >>>>>> > tuan_new
+=======
+======
+>>>>>>> tai - new
+<<<<<<< HEAD
+	cout << < "thay doi main";
+>>>>>>> tuan_new
+>>>>>>> tuan_new
     </startup>
 </configuration>
